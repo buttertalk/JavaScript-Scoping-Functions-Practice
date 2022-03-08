@@ -1,4 +1,4 @@
-# JavaScript-Scoping-Functions-Practice
+
 # JavaScript-Scoping-Functions-Practice
 This is practice setting up and using functions in VS Code. 
 
